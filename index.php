@@ -23,12 +23,12 @@
 			</div>
 
 			<div class="mb-3">
-				<label for="name" class="form-label">Parola da cercare</label>
+				<label for="name" class="form-label">Nome</label>
 				<input type="text" class="form-control" id="name" name="name">
 			</div>
 
 			<div class="mb-3">
-				<label for="age" class="form-label">Parola da cercare</label>
+				<label for="age" class="form-label">Età</label>
 				<input type="number" class="form-control" id="age" name="age">
 			</div>
 
